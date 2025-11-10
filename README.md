@@ -1,10 +1,11 @@
 # Pacman
 Pacman in Python using pygame 
-
+```
 # Launch
 Requirements:
 #   - Python 3.x
 #   - pygame (pip install pygame)
+```
 ```
 Controls:
 #   Arrows - move Pac-Man
