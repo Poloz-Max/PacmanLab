@@ -1,0 +1,2 @@
+# PacmanLab
+Pacman minigame
